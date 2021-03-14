@@ -76,5 +76,9 @@ namespace Calculator
             if (y == 0.0) throw new DivideByZeroException();
             return x / y;
         }
+        public static double Mode(double x, double y)
+        {
+            return x % y;
+        }
     }
 }
