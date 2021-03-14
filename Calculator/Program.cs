@@ -73,8 +73,11 @@ namespace Calculator
         /// <returns></returns>
         public static double Div(double x, double y)
         {
-            if (y == 0.0) throw new DivideByZeroException();
             return x / y;
+        }
+        public static double Mod(double x, double y)
+        {
+            return x % y;
         }
     }
 }
