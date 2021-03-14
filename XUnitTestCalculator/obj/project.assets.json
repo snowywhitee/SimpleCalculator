@@ -3521,23 +3521,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ALEXXXANDRO\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet": {}
+    "C:\\Users\\нр\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LABS\\2 COURSE\\DevTools\\SimpleCalculator\\XUnitTestCalculator\\XUnitTestCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\нр\\source\\repos\\XUnitTestCalculator\\XUnitTestCalculator.csproj",
       "projectName": "XUnitTestCalculator",
-      "projectPath": "D:\\LABS\\2 COURSE\\DevTools\\SimpleCalculator\\XUnitTestCalculator\\XUnitTestCalculator.csproj",
-      "packagesPath": "C:\\Users\\ALEXXXANDRO\\.nuget\\packages\\",
-      "outputPath": "D:\\LABS\\2 COURSE\\DevTools\\SimpleCalculator\\XUnitTestCalculator\\obj\\",
+      "projectPath": "C:\\Users\\нр\\source\\repos\\XUnitTestCalculator\\XUnitTestCalculator.csproj",
+      "packagesPath": "C:\\Users\\нр\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\нр\\source\\repos\\XUnitTestCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\ALEXXXANDRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\нр\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -3550,10 +3550,9 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\LABS\\2 COURSE\\DevTools\\SimpleCalculator\\Calculator\\Calculator.csproj": {
-              "projectPath": "D:\\LABS\\2 COURSE\\DevTools\\SimpleCalculator\\Calculator\\Calculator.csproj"
+            "C:\\Users\\нр\\source\\repos\\Calculator\\Calculator.csproj": {
+              "projectPath": "C:\\Users\\нр\\source\\repos\\Calculator\\Calculator.csproj"
             }
           }
         }
@@ -3566,7 +3565,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -3600,7 +3598,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
